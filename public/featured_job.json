@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "company_logo": "https://img.freepik.com/free-vector/gradient-hub-logo-template_23-2149820086.jpg?w=740&t=st=1681124121~exp=1681124721~hmac=350bb0a27ca0709d52c0a2e869de092400c517ebe0c51fc544af745242b3ff68",
+    "job_title": "Software Developer",
+    "company_name": "Acme Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "USA",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "We're looking for a software developer to join our team and work on exciting projects.",
+    "job_responsibility": "Develop, test, and deploy software applications.",
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field.",
+    "experiences": "3+ years of experience in software development.",
+    "contact_information": {
+      "phone": "555-1234",
+      "email": "jobs@acmeinc.com"
+    }
+  },
+  {
+    "id": 2,
+    "company_logo": "https://img.freepik.com/free-vector/creative-data-logo-template_23-2149212795.jpg?w=740&t=st=1681124215~exp=1681124815~hmac=d5ef1569fb9c162143279ffe6f3fd5d241c0186e980a80f4b5ee351578b6d858",
+    "job_title": "Marketing Coordinator",
+    "company_name": "Widget Corp.",
+    "remote_or_onsite": "Onsite",
+    "location": "Los Angeles",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$50,000 - $70,000",
+    "job_description": "We're seeking a marketing coordinator to help us execute marketing campaigns.",
+    "job_responsibility": "Assist in the development and execution of marketing campaigns across multiple channels.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "1-2 years of experience in marketing.",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "jobs@widgetcorp.com"
+    }
+  },
+  {
+    "id": 3,
+    "company_logo": "https://img.freepik.com/free-vector/technological-logo-design_1424-39.jpg?w=740&t=st=1681124506~exp=1681125106~hmac=603048b18343c993ea8485e6fa2d8ee2c6c203f532916240849498e0b8b5a7eb",
+    "job_title": "Graphic Designer",
+    "company_name": "Pixel Perfect Inc.",
+    "remote_or_onsite": "Remote",
+    "location": "Canada",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$60,000 - $80,000",
+    "job_description": "We're looking for a creative graphic designer to join our team and help us create stunning visual designs.",
+    "job_responsibility": "Design and create graphics for a variety of mediums such as web, print, and social media.",
+    "educational_requirements": "Bachelor's degree in Graphic Design or related field.",
+    "experiences": "2+ years of experience in graphic design.",
+    "contact_information": {
+      "phone": "555-2468",
+      "email": "jobs@pixelperfectinc.com"
+    }
+  },
+    {
+      "id": 4,
+      "company_logo": "https://img.freepik.com/premium-vector/connecting-symbol-logo_1222-800.jpg?w=740",
+      "job_title": "Product Manager",
+      "company_name": "Tech Start-Up",
+      "remote_or_onsite": "Remote",
+      "location": "Global",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$120,000 - $150,000",
+      "job_description": "We're looking for an experienced product manager to help us drive product strategy and execution.",
+      "job_responsibility": "Lead cross-functional teams to define and execute product roadmap.",
+      "educational_requirements": "Bachelor's or Master's degree in Business, Engineering or related field.",
+      "experiences": "5+ years of experience in product management or related field.",
+      "contact_information": {
+        "phone": "555-2345",
+        "email": "jobs@techstartup.com"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://img.freepik.com/free-vector/flat-design-data-logo-template_23-2149201865.jpg?w=740&t=st=1681124422~exp=1681125022~hmac=66657415e25919ec01fd5565599b339d13ad188649c7e8adea475bc2b8e1afbe",
+      "job_title": "Sales Representative",
+      "company_name": "Global Corporation",
+      "remote_or_onsite": "Onsite",
+      "location": "London",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "£40,000 - £60,000",
+      "job_description": "We're seeking a sales representative to help us expand our business in the UK market.",
+      "job_responsibility": "Prospect and qualify new business opportunities, negotiate and close deals.",
+      "educational_requirements": "Bachelor's degree in Business, Marketing or related field.",
+      "experiences": "3+ years of experience in B2B sales or related field.",
+      "contact_information": {
+        "phone": "+44 20 1234 5678",
+        "email": "jobs@globalcorp.com"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://img.freepik.com/premium-vector/strong-links-logo_27153-18.jpg?w=740",
+      "job_title": "Human Resources Manager",
+      "company_name": "Medium-sized Business",
+      "remote_or_onsite": "Onsite",
+      "location": "Chicago",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$70,000 - $90,000",
+      "job_description": "We're seeking an experienced human resources manager to help us develop and implement HR policies and practices.",
+      "job_responsibility": "Oversee all aspects of HR, including recruitment, onboarding, performance management, and employee relations.",
+      "educational_requirements": "Bachelor's or Master's degree in Human Resources, Business or related field.",
+      "experiences": "5+ years of experience in HR management or related field.",
+      "contact_information": {
+        "phone": "555-6789",
+        "email": "jobs@mediumbiz.com"
+      }
+    }
+  ]
+  

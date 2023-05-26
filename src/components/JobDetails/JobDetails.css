@@ -1,0 +1,42 @@
+.details {
+    margin-top: 130px;
+}
+.detail-bg{
+    background-image: url("https://plus.unsplash.com/premium_photo-1667862241971-e1f08f51dd07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1121&q=80");
+    width: 1080px;
+    height: 150px;
+    margin: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.job-description {
+    margin-top: 50px;
+}
+
+.job-details {
+    padding: 20px;
+    text-align: left;
+}
+
+.job-description {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.job-contact {
+    margin-left: 30px;
+    border: 2px solid rgb(207, 105, 207);
+    border-radius: 8px;
+    background-color: rgb(200, 200, 226);
+    padding: 20px;
+    text-align: left;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.btn-apply {
+    width: 100%;
+}

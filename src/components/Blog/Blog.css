@@ -1,0 +1,26 @@
+.Blog-page {
+    margin-top: 100px;
+
+}
+
+.blog-bg {
+
+    background-image: url("https://plus.unsplash.com/premium_photo-1667862241971-e1f08f51dd07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1121&q=80");
+    width: 1080px;
+    height: 150px;
+    margin: 70px;
+    border-radius: 10px;
+}
+
+.blogs {
+    margin: 60px;
+    text-align: left;
+}
+
+.blog {
+    border: 2px solid purple;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(237, 224, 237);
+}
